@@ -1,6 +1,6 @@
 ### Airplanes
 
-An airport booking service
+An airport booking service app build in frappe
 
 ### Installation
 
@@ -8,7 +8,7 @@ You can install this app using the [bench](https://github.com/frappe/bench) CLI:
 
 ```bash
 cd $PATH_TO_YOUR_BENCH
-bench get-app $URL_OF_THIS_REPO --branch main
+bench get-app https://github.com/twilighty-abhi/Airport-Mangement --branch main
 bench install-app airplanes
 ```
 
